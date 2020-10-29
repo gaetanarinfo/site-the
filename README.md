@@ -1,2 +1,7 @@
 # site-the
-Site de thé
+
+<-- Mon super site de thé -->
+
+<-- Dev by Gaëtan Seigneur -->
+
+<-- Le 28/10/2020 -->
