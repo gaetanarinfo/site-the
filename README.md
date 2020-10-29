@@ -1,4 +1,4 @@
-# site-the
+# Site de Thé hebergée par GitHub
 
 <-- Mon super site de thé -->
 
@@ -6,4 +6,4 @@
 
 <-- Le 28/10/2020 -->
 
-https://gaetanarinfo.github.io/site-the/
+--> Le lien du site hébergée https://gaetanarinfo.github.io/site-the/
